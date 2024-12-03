@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationApp.WebAPI", "JwtAuthenticationApp.WebAPI\JwtAuthenticationApp.WebAPI.csproj", "{7275D592-7242-4E11-8639-67A7B87CA844}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationApp.DAL", "JwtAuthenticationApp.DAL\JwtAuthenticationApp.DAL.csproj", "{38823435-4601-47A4-9B03-5A8476B0EE26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7275D592-7242-4E11-8639-67A7B87CA844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7275D592-7242-4E11-8639-67A7B87CA844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7275D592-7242-4E11-8639-67A7B87CA844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38823435-4601-47A4-9B03-5A8476B0EE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38823435-4601-47A4-9B03-5A8476B0EE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38823435-4601-47A4-9B03-5A8476B0EE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38823435-4601-47A4-9B03-5A8476B0EE26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
